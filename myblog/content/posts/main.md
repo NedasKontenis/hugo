@@ -1,11 +1,18 @@
 ---
-title: "Labas Krabas"
-date: 2025-01-13T23:40:06+02:00
+title: "Puslapiukas"
+date: 2025-01-14T00:03:18+02:00
 draft: false
-toc: false
-images:
-tags:
-  - untagged
 ---
-Sesios zasys su sesisias zasyciais
+## Welcome to My New Post
 
+This is a new post with a picture and a code block.
+
+### Picture Example
+![Image](/images/example-image.jpg)
+
+### Code Block Example
+Here is a code snippet:
+
+```python
+def greet(name):
+    print(f"Hello, {name}!")
